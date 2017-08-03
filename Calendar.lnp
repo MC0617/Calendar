@@ -1,0 +1,8 @@
+"STARTUP.obj",
+"delay.obj",
+"DHT11.obj",
+"DS1302.obj",
+"main.obj",
+"TM1640.obj" 
+TO "Calendar" 
+RAMSIZE(256) 
